@@ -8,6 +8,9 @@
       <sourceFolder url="file://$MODULE_DIR$/programming-elements/level-2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/core-java-practice/gcr-codebase/programming-elements/level-2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/core-java-practice/gcr-codebase/programming-elements/story-base" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core-java-practice/core-java/gcr-codebase/String/Level1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core-java-practice/core-java/gcr-codebase/String/Level2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core-java-practice/core-java/gcr-codebase/programming-elements/story-base" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
