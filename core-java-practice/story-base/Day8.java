@@ -7,7 +7,7 @@ public class Day8 {
         try {
             File file = new File(inputFile);
             Scanner sc = new Scanner(file);
-            FileWriter fw = new FileWriter(outputFile, true); 
+            FileWriter fw = new FileWriter(outputFile, true);
             while (sc.hasNextLine()) {
                 String line = sc.nextLine();
                 String[] data = line.split(",");
